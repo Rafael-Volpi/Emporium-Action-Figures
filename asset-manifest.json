@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09f22226.css",
+    "main.js": "/static/js/main.ece067fe.js",
+    "static/js/156.2f166c43.chunk.js": "/static/js/156.2f166c43.chunk.js",
+    "static/media/elsa.jpg": "/static/media/elsa.9d3c272c6110acf78d19.jpg",
+    "static/media/thanos.jpg": "/static/media/thanos.d892747c421ce016f733.jpg",
+    "static/media/harrypotter.jpg": "/static/media/harrypotter.d914ce2d356309387ecc.jpg",
+    "static/media/groot.jpg": "/static/media/groot.9a36184523c8c7348a24.jpg",
+    "static/media/captainmarvel.jpg": "/static/media/captainmarvel.24a772e21cc76cbb498d.jpg",
+    "static/media/homer.jpg": "/static/media/homer.8ba12711791e4742a140.jpg",
+    "static/media/deadpool.jpg": "/static/media/deadpool.6768dc89e8f52e5161e0.jpg",
+    "static/media/darthvader.jpg": "/static/media/darthvader.1929cc1f27e5b628c8b7.jpg",
+    "static/media/ironman.jpg": "/static/media/ironman.e32e4c3ae49e9fe2c164.jpg",
+    "static/media/spiderman.jpg": "/static/media/spiderman.2134fbe28e56b2858941.jpg",
+    "static/media/wonderwoman.jpg": "/static/media/wonderwoman.a4ad98c9f924179a4db6.jpg",
+    "static/media/darthmaul.jpg": "/static/media/darthmaul.9be174ae100bd8ea7ce7.jpg",
+    "static/media/blackpanther.jpg": "/static/media/blackpanther.8ccdddaef32f497f33cc.jpg",
+    "static/media/hulk.jpg": "/static/media/hulk.bac04d8610e16aa8c4b9.jpg",
+    "static/media/wolverine.jpg": "/static/media/wolverine.24550bd7b115cf7dffe0.jpg",
+    "static/media/venom.jpg": "/static/media/venom.f248403c67e363adc3a7.jpg",
+    "static/media/doctorstrange.jpg": "/static/media/doctorstrange.a7c95c79ae326f99bdbe.jpg",
+    "static/media/captainamerica.jpg": "/static/media/captainamerica.8b3a20a3c5a8d4288ad2.jpg",
+    "static/media/daredevil.jpg": "/static/media/daredevil.dc6c9e41dcb4751e5d2e.jpg",
+    "static/media/batman.jpg": "/static/media/batman.dc2e460b730f6e065099.jpg",
+    "static/media/superman.jpg": "/static/media/superman.9b73e63862c19399dde8.jpg",
+    "static/media/joker.jpg": "/static/media/joker.0ae0adb4da5c1a530693.jpg",
+    "static/media/buzz.jpg": "/static/media/buzz.415c9e0e2a141c67619e.jpg",
+    "static/media/logo.jpg": "/static/media/logo.b83260c73d8ba62a3a91.jpg",
+    "static/media/thor.jpg": "/static/media/thor.49dcf77e8ab5d2f3f096.jpg",
+    "index.html": "/index.html",
+    "main.09f22226.css.map": "/static/css/main.09f22226.css.map",
+    "main.ece067fe.js.map": "/static/js/main.ece067fe.js.map",
+    "156.2f166c43.chunk.js.map": "/static/js/156.2f166c43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09f22226.css",
+    "static/js/main.ece067fe.js"
+  ]
+}
